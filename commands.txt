@@ -1,0 +1,15 @@
+to create an android react app
+> npx react-native init VideoCallApp
+> npm start 
+> npm i react-router-dom
+
+
+
+
+Reference 
+Build a One on One Video Call App - React | ZEGOCLOUD - https://youtu.be/Z6wLrEPJufU?si=fVlfh-fchxpOZBHK
+
+Zegocloud 
+https://docs.zegocloud.com/article/14935
+
+npm i @zegocloud/zego-uikit-prebuilt --save
